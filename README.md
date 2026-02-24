@@ -59,7 +59,7 @@ A concise, stakeholder-ready presentation covering:
 - Expected financial impact
 
 🔗 **Download Business Report:**  
-👉 _Insert PowerPoint link_
+👉[_PowerPoint link_](https://github.com/Llinvile/Customer-Churn-Prediction/blob/main/Customer%20Churn%20Analysis%20Business%20report.pdf)
 
 ---
 
@@ -99,7 +99,7 @@ A concise, stakeholder-ready presentation covering:
 
 
 - 📑 **Executive PowerPoint Report:**  
-  _Insert PowerPoint link_ (https://github.com/Llinvile/Customer-Churn-Prediction/blob/main/Customer%20Churn%20Analysis%20Business%20report.pdf)
+  [_PowerPoint link_](https://github.com/Llinvile/Customer-Churn-Prediction/blob/main/Customer%20Churn%20Analysis%20Business%20report.pdf)
 
 ---
 
