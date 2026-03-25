@@ -1,4 +1,4 @@
-# Customer-Churn-Prediction
+# Customer Churn & Retention Analytics Dashboard
 **Business-focused churn analysis combining machine learning, Tableau dashboards, and executive reporting to support data-driven retention decisions.**  
 
 This project identifies early churn risk, explains *why* customers leave, and translates analytics into clear actions for financial and operational stakeholders.
